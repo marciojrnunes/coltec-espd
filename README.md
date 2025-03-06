@@ -33,7 +33,7 @@ Essa pasta é responsável por armazenar os dos integrantes do mural.
 Repare também que esta pasta contém vários subdiretórios, um para cada ano em que a disciplina foi dada.
 As informações presentes nesse diretório serão processadas pelo Jekyll e então carregadas no arquivo `index.html`.
 
-### O arquivo `jemaf.json`
+### O arquivo `marciojrnunes.json`
 
 Ao acessar a pasta `2025`, você vai observar a presença de um arquivo, chamado [`marciojrnunes.json`](_data/2025/marciojrnunes.json).
 Ao abrir esse arquivo, você vai observar que ele possui a seguinte estrutura: 
