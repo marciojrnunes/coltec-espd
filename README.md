@@ -1,6 +1,6 @@
 # Exercício 00: Mural dos Estudantes 
 
-Professores: Dener Brandão e João Eduardo Montandon
+Professores: Márcio Nunes e João Eduardo Montandon
 
 **Objetivo:** Nesta lista, você irá praticar seus conhecimentos de Git & GitHub para adicionar suas informações no mural dos alunos do curso.
 ## Mural dos Alunos
