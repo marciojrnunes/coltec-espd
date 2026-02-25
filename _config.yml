@@ -1,6 +1,6 @@
 baseurl: ""
 class_name: "Engenharia de Software: Técnicas de Desenvolvimento"
-class_year: "2025"
+class_year: "2026"
 repository_name: "coltec-espd"
 
 exclude:
