@@ -35,7 +35,7 @@ As informações presentes nesse diretório serão processadas pelo Jekyll e ent
 
 ### O arquivo `marciojrnunes.json`
 
-Ao acessar a pasta `2025`, você vai observar a presença de um arquivo, chamado [`marciojrnunes.json`](_data/2025/marciojrnunes.json).
+Ao acessar a pasta `2026`, você vai observar a presença de um arquivo, chamado [`marciojrnunes.json`](_data/2026/marciojrnunes.json).
 Ao abrir esse arquivo, você vai observar que ele possui a seguinte estrutura: 
 
 ```
@@ -46,11 +46,11 @@ Ao abrir esse arquivo, você vai observar que ele possui a seguinte estrutura:
 ```
 
 Essas são justamente as informações que serão exibidas no mural!
-**Você irá adicionar suas informações em um arquivo próprio, dentro da pasta `2025`!**
+**Você irá adicionar suas informações em um arquivo próprio, dentro da pasta `2026`!**
 
 ## Criando o arquivo de seu usuário
 
-Acesse a pasta [`2025`](_data/2025) e crie um arquivo chamado `USERNAME.json`, **onde `USERNAME` representa seu usuário do GitHub**.
+Acesse a pasta [`2026`](_data/2026) e crie um arquivo chamado `USERNAME.json`, **onde `USERNAME` representa seu usuário do GitHub**.
 
 Uma vez criado o arquivo, crie e preencha os campos `introduction` e `emoji`, exatamente como no exemplo acima.
 Você pode consultar a lista de emojis disponíveis neste [link](https://emoji-css.afeld.me/).
